@@ -67,6 +67,76 @@ if first_choice == "L":
                              ''')
             print("Congratulations, you found the treasure, you finished the game!")
             input("Press enter to leave the game ")
+
+        else:
+            print('''
+                                      ,--.
+                                   {    }
+                                   K,   }
+                                  /  ~Y`
+                             ,   /   /
+                            {_'-K.__/
+                              `/-.__L._
+                              /  ' /`\_}
+                             /  ' /
+                     ____   /  ' /
+              ,-'~~~~    ~~/  ' /_
+            ,'             ``~~~  ',
+           (                        Y
+          {                         I
+         {      -                    `,
+         |       ',                   )
+         |        |   ,..__      __. Y
+         |    .,_./  Y ' / ^Y   J   )|
+         \           |' /   |   |   ||
+          \          L_/    . _ (_,.'(
+           \,   ,      ^^""' / |      )
+             \_  \          /,L]     /
+               '-_~-,       ` `   ./`
+                  `'{_            )
+                      ^^\..___,.--`
+
+                      YOU'RE DEAD
+            ''')
+        input("Press enter to leave the game ")
+
+
+
+    else:
+        print('''
+                                  ,--.
+                               {    }
+                               K,   }
+                              /  ~Y`
+                         ,   /   /
+                        {_'-K.__/
+                          `/-.__L._
+                          /  ' /`\_}
+                         /  ' /
+                 ____   /  ' /
+          ,-'~~~~    ~~/  ' /_
+        ,'             ``~~~  ',
+       (                        Y
+      {                         I
+     {      -                    `,
+     |       ',                   )
+     |        |   ,..__      __. Y
+     |    .,_./  Y ' / ^Y   J   )|
+     \           |' /   |   |   ||
+      \          L_/    . _ (_,.'(
+       \,   ,      ^^""' / |      )
+         \_  \          /,L]     /
+           '-_~-,       ` `   ./`
+              `'{_            )
+                  ^^\..___,.--`
+
+                  YOU'RE DEAD
+        ''')
+    input("Press enter to leave the game ")
+
+
+
+
 else:
     print('''
                               ,--.
